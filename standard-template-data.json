@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-08-25T03:47:40.771938407Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-08-25T07:18:05.002313375Z",
     "templateType": "trip_e",
     "propertyId": "c1c05c64-9c49-4b9e-aab2-8d89ddf8c910",
     "homepageId": "a9534672-5e80-4517-8448-40638a27ec34"
@@ -15,7 +15,9 @@
     "address": "강원특별자치도 동해시 대진항길 5 (대진동) 동해 바다담 오션뷰 스파 풀빌라",
     "latitude": 37.5779205525007,
     "longitude": 129.115576250858,
-    "contactPhone": "010-5253-6357",
+    "contactPhone": [
+      "010-5253-6357"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
