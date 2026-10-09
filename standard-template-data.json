@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-10-09T08:04:15.258792070Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-10-09T08:05:45.443262350Z",
     "templateType": "trip_e",
     "propertyId": "c1c05c64-9c49-4b9e-aab2-8d89ddf8c910",
     "homepageId": "a9534672-5e80-4517-8448-40638a27ec34"
@@ -2663,8 +2663,8 @@
                 "title": "ROOM PREVIEW",
                 "images": [
                   {
-                    "id": "576acf35-5c4d-4bcc-8a3d-523c413a4043",
-                    "url": "https://badadamps.kr/assets/images/room/layout.webp",
+                    "id": "01a11fb2-52fd-7204-a6a7-c77027c84372",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a9534672-5e80-4517-8448-40638a27ec34/layout_map_about/1791533141376-6qjx8xy5zv.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2676,6 +2676,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
