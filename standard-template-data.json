@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-09-29T01:19:21.179123173Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-10-09T08:04:15.258792070Z",
     "templateType": "trip_e",
     "propertyId": "c1c05c64-9c49-4b9e-aab2-8d89ddf8c910",
     "homepageId": "a9534672-5e80-4517-8448-40638a27ec34"
@@ -29,6 +29,9 @@
     "domain": "badadamps.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1674542465",
     "ybsId": "78808",
+    "tripPropertyId": "9861",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "엘리베이터",
@@ -315,9 +318,9 @@
       {
         "thumbnail": [
           {
-            "id": "70c522c0-8ff1-41da-b094-a83a6621cdae",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/lwKX53LEchoY.jpg",
-            "sortOrder": 15,
+            "id": "01a0f59f-5c5a-7eff-a6b1-b3e721daf960",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/S4gnW9ev3MpO.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,9 +328,9 @@
         ],
         "exterior": [
           {
-            "id": "d9ab7e17-9054-49db-94c5-548d3e9de398",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/e7noEh605ZUv.jpg",
-            "sortOrder": 16,
+            "id": "01a0f568-6772-7d77-a100-4c218c721217",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/e4KUZPhVo1H2.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,31 +338,15 @@
           {
             "id": "cfa4db2d-c375-43a5-9197-6bd97419c93e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/kJetzn5h0qCg.jpg",
-            "sortOrder": 17,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "1394022b-3325-4b76-9f54-c256de1708a3",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/GW7081vXLePI.jpg",
-            "sortOrder": 18,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "9ce8edb3-3ef2-484b-9ef2-5febeb68a544",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/dVNOwqI54B9H.jpg",
-            "sortOrder": 19,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "150ca375-8fd7-4589-81b9-b17327b0af94",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/kp2D5ymNdqnx.jpg",
-            "sortOrder": 20,
+            "id": "01a0f568-6771-7c88-93fc-48d5e09c3b2b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/gn74y2xPH8LK.jpg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,15 +354,23 @@
           {
             "id": "5133b529-6ee1-4499-a7dc-c4e742b2ca05",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/0joP7nvWaVYd.jpg",
-            "sortOrder": 21,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "f75d9073-dad6-48b8-9491-d10e165a2cb5",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/vp4hoalJbzrk.jpg",
-            "sortOrder": 22,
+            "id": "150ca375-8fd7-4589-81b9-b17327b0af94",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/kp2D5ymNdqnx.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0f568-6772-7d5f-ba8a-48581767f2b1",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/zamBHE0k9j5b.jpg",
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -383,7 +378,23 @@
           {
             "id": "295b1780-d996-4466-93ce-38d8031a81bf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/imBGwukxKrHj.jpg",
-            "sortOrder": 23,
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0f59f-5c5b-7352-a4b1-51a1bc4ce3c7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/4FqCabJNfQUw.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0f59f-5c5b-73a6-9960-82379f66955d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/zdTPvZ5Ja27S.jpg",
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -392,10 +403,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "9861",
-    "partnerType": "distributor_b",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
@@ -676,7 +684,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a0eab7-cec6-758c-b52a-53576a47f8e9",
+              "id": "01a0eaee-b968-7811-aafa-3a6d82bb8813",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/11/25/tsWudJ78TgV1.jpg",
               "sortOrder": 1,
               "description": "",
@@ -686,7 +694,7 @@
           ],
           "interior": [
             {
-              "id": "01a0eab7-cec6-7621-8a80-3bac6da96ddf",
+              "id": "01a0eaee-b968-787a-81b3-57efd96157c8",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/11/25/PQoSwlpugjie.jpg",
               "sortOrder": 2,
               "description": "",
@@ -694,7 +702,7 @@
               "blockId": null
             },
             {
-              "id": "01a0eab7-cec6-7663-8ed0-d2582a9c988a",
+              "id": "01a0eaee-b968-7a3c-a1f3-8bb00322c7d8",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/11/25/njiud4fsQZg7.jpg",
               "sortOrder": 3,
               "description": "",
@@ -702,7 +710,7 @@
               "blockId": null
             },
             {
-              "id": "01a0eab7-cec6-76b3-b0e7-5111b7d9c7dd",
+              "id": "01a0eaee-b968-7c32-be3d-b3fe77d5a1a5",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/11/25/BsZubcyznNDa.jpg",
               "sortOrder": 4,
               "description": "",
@@ -710,7 +718,7 @@
               "blockId": null
             },
             {
-              "id": "01a0eab7-cec6-7709-9156-20c4281d1b38",
+              "id": "01a0eaee-b968-7cc8-bfb4-0cc3d713e162",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/11/25/oqbIPxLlfrMh.jpg",
               "sortOrder": 5,
               "description": "",
@@ -718,7 +726,7 @@
               "blockId": null
             },
             {
-              "id": "01a0eab7-cec6-7722-b30c-65b305c3856f",
+              "id": "01a0eaee-b968-7d52-963b-a524831a06d6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/11/25/rl5J6VxUpo9b.jpg",
               "sortOrder": 8,
               "description": "",
@@ -726,7 +734,7 @@
               "blockId": null
             },
             {
-              "id": "01a0eab7-cec6-7751-bbd7-1f3d8cc509fc",
+              "id": "01a0eaee-b968-7dc1-a321-3d3c8f65256f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/11/25/JlBPMKsEQvbt.jpg",
               "sortOrder": 9,
               "description": "",
