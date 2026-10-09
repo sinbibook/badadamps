@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-10-09T08:06:07.933495954Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-10-09T11:07:59.024755422Z",
     "templateType": "trip_e",
     "propertyId": "c1c05c64-9c49-4b9e-aab2-8d89ddf8c910",
     "homepageId": "a9534672-5e80-4517-8448-40638a27ec34"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시이후 입실 시 사전 문의",
-    "usageGuide": "[공지사항]\n- 객실 내 돼지고기, 생선, 청국장, 대게 등 냄새가 심한 음식 조리 및 섭취 금지\n- 위반 시 잔류 냄새로 추가 청소비 발생 가능\n- 침구류, 쇼파, 매트리스 오염 및 훼손 주의\n- 개인 버너, 그릴, 전열기기 등 개인 화기 반입 및 사용 금지\n- 화재, 냄새, 오염으로 다음 고객 이용에 지장 없도록 주의\n- 201호, 202호 두 커플 이상 입실 불가, 202호 남성만 예약 불가, 가족 단위 예약만 가능\n- 펜션 청결 유지를 위해 바베큐 별도 진행 없음\n- 밤 22시 이후 소음 자제\n- 호텔식 침구 사용 및 정기 객실 점검 진행\n- 전기밥솥 이용을 원하실 경우, 사전 준비를 위해 숙소로 미리 연락 주시면 준비해드리겠습니다\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아 (12개월 미만): 무료/기준인원 미포함\n※ 사전에 예약 시 발송된 숙소 연락처로 반드시 인원 정보를 전달해 주셔야 추가 침구 및 객실 준비가 가능하오니, 원활한 이용을 위해 꼭 숙소로 사전 연락 부탁드립니다.\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 조건부 운영\n- 운영 기간: 26년 6월 13일 ~ 26년 10월 초 \n※ 현장 상황에 따라 변경될 수 있습니다.\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 입실후~20:00\n- 이용 복장: 수영복, 래쉬가드\n※ 수영장은 투숙객 전용 시설로 외부인 이용 불가\n※ 이용 시간 외 이용 불가\n※ 음주 후 수영장 이용 금지\n※ 수영장 내 뛰거나 장난 금지\n※ 유아 및 아동 보호자 동반 필수\n※ 물놀이 용품 사용 시 타 이용객 방해 주의\n※ 수영장 내 음식물 반입 및 취식 금지\n※ 기상 상황 및 관리 사정에 따라 조기 종료 가능\n\n[애견동반]\n- 반려동물 입실 불가\n\n[스파]\n- 이용 객실: 전 객실\n- 스파 형태: 월풀스파\n- 이용 요금: 무료\n- 이용 시간: 입실후~22:00\n- 입욕제 사용: 불가\n\n[부대시설]\n[루프탑 전망대]\n- 이용 시간: 입실 후 ~ 21:00\n- OTT(개인계정)\n\n[편의 및 주변 시설]\n- 엘레베이터 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 최대 8대\n- 위치: 펜션 주차장 및 현장 상황에 따라 도로가 주차 가능\n\n[교통편]\n※ 대중교통 이용 시\n- KTX: 묵호역 하차 후 택시 약 10~15분\n- 고속버스: 동해시외버스터미널 하차 후 택시 약 10분\n- 시내버스: 대진동 또는 대진삼거리 정류장 하차 후 도보 약 1분\n\n※ 차량 이용 시\n- '대진동 8-4' 검색\n- 망상IC에서 차량 5분 거리",
+    "usageGuide": "- 객실 내 돼지고기, 생선, 청국장, 대게 등 냄새가 심한 음식 조리 및 섭취 금지\n- 위반 시 잔류 냄새로 추가 청소비 발생 가능\n- 침구류, 쇼파, 매트리스 오염 및 훼손 주의\n- 개인 버너, 그릴, 전열기기 등 개인 화기 반입 및 사용 금지\n- 화재, 냄새, 오염으로 다음 고객 이용에 지장 없도록 주의\n- 201호, 202호 두 커플 이상 입실 불가, 202호 남성만 예약 불가, 가족 단위 예약만 가능\n- 펜션 청결 유지를 위해 바베큐 별도 진행 없음\n- 밤 22시 이후 소음 자제\n- 호텔식 침구 사용 및 정기 객실 점검 진행\n- 전기밥솥 이용을 원하실 경우, 사전 준비를 위해 숙소로 미리 연락 주시면 준비해드리겠습니다\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 30,000원, 유아 무료\n(1박기준/현장결제)\n※ 유아 (12개월 미만): 무료/기준인원 미포함\n※ 사전에 예약 시 발송된 숙소 연락처로 반드시 인원 정보를 전달해 주셔야 추가 침구 및 객실 준비가 가능하오니, 원활한 이용을 위해 꼭 숙소로 사전 연락 부탁드립니다.\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 조건부 운영\n- 운영 기간: 26년 6월 13일 ~ 26년 10월 초 \n※ 현장 상황에 따라 변경될 수 있습니다.\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 입실후~20:00\n- 이용 복장: 수영복, 래쉬가드\n※ 수영장은 투숙객 전용 시설로 외부인 이용 불가\n※ 이용 시간 외 이용 불가\n※ 음주 후 수영장 이용 금지\n※ 수영장 내 뛰거나 장난 금지\n※ 유아 및 아동 보호자 동반 필수\n※ 물놀이 용품 사용 시 타 이용객 방해 주의\n※ 수영장 내 음식물 반입 및 취식 금지\n※ 기상 상황 및 관리 사정에 따라 조기 종료 가능\n\n[애견동반]\n- 반려동물 입실 불가\n\n[스파]\n- 이용 객실: 전 객실\n- 스파 형태: 월풀스파\n- 이용 요금: 무료\n- 이용 시간: 입실후~22:00\n- 입욕제 사용: 불가\n\n[부대시설]\n[루프탑 전망대]\n- 이용 시간: 입실 후 ~ 21:00\n- OTT(개인계정)\n\n[편의 및 주변 시설]\n- 엘레베이터 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 최대 8대\n- 위치: 펜션 주차장 및 현장 상황에 따라 도로가 주차 가능\n\n[교통편]\n※ 대중교통 이용 시\n- KTX: 묵호역 하차 후 택시 약 10~15분\n- 고속버스: 동해시외버스터미널 하차 후 택시 약 10분\n- 시내버스: 대진동 또는 대진삼거리 정류장 하차 후 도보 약 1분\n\n※ 차량 이용 시\n- '대진동 8-4' 검색\n- 망상IC에서 차량 5분 거리",
     "reservationGuide": "- 객실 내 돼지고기, 생선, 청국장, 대게 등 냄새가 심한 음식 조리 및 섭취 금지\n- 위반 시 잔류 냄새로 추가 청소비 발생 가능\n- 침구류, 쇼파, 매트리스 오염 및 훼손 주의\n- 개인 버너, 그릴, 전열기기 등 개인 화기 반입 및 사용 금지\n- 화재, 냄새, 오염으로 다음 고객 이용에 지장 없도록 주의\n- 201호, 202호 두 커플 이상 입실 불가, 202호 남성만 예약 불가, 가족 단위 예약만 가능\n- 펜션 청결 유지를 위해 바베큐 별도 진행 없음\n- 밤 22시 이후 소음 자제\n- 호텔식 침구 사용 및 정기 객실 점검 진행\n- 전기밥솥 이용을 원하실 경우, 사전 준비를 위해 숙소로 미리 연락 주시면 준비해드리겠습니다",
     "province": "도/시",
     "city": "시/군/구",
@@ -73,11 +73,93 @@
     },
     "facilities": [
       {
+        "id": "01a12057-95fe-710e-a0c0-03658de039f9",
+        "name": "오션뷰",
+        "description": "바다와 가장 가까운 자리에서 파도 소리를 들으며 머무는 시간,\n아름다운 경관이 하루의 마음을 부드럽게 감싸줍니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a12057-aa3a-749c-a34e-15ba2ee96d72",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12057-95fe-710e-a0c0-03658de039f9/main/1791543977783-iwmlizgxph.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12057-aa39-779a-b321-21f96e1b0bd3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12057-95fe-710e-a0c0-03658de039f9/main/1791543977784-oqwh9ejwhb.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12057-a98f-72bb-a5be-505d08ecf7f4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12057-95fe-710e-a0c0-03658de039f9/main/1791543977783-5nww209v49.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a12057-aa4a-79eb-840a-c11bc601d28e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a12057-95fe-710e-a0c0-03658de039f9/main/1791543977783-b8ti52if61.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "eb021df1-e845-4be0-9d59-7f2b26d76bd2",
+        "name": "스파",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 스파 형태: 월풀스파\n- 이용 요금: 무료\n- 이용 시간: 입실후~22:00\n- 입욕제 사용: 불가",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "2b9ad913-bc6e-4510-a9c9-1c224fe77b62",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414748-3176unxzsn.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "08b0706f-c86e-40b2-9450-9fb00cdb273e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414749-rha16rvu9t.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "de02d82b-b245-44d0-8273-11717cae4c19",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414749-vhvf4joh65.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4321859c-dbaf-4d42-aa36-cc30639c3377",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414750-hksgwhrhmj.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "da2ea477-624b-45a9-9ed3-8229ca9dfa33",
         "name": "공용수영장",
         "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 운영 계절: 조건부 운영\n- 운영 기간: 26년 6월 13일 ~ 26년 10월 초 \n※ 현장 상황에 따라 변경될 수 있습니다.\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 입실후~20:00\n- 이용 복장: 수영복, 래쉬가드\n※ 수영장은 투숙객 전용 시설로 외부인 이용 불가\n※ 이용 시간 외 이용 불가\n※ 음주 후 수영장 이용 금지\n※ 수영장 내 뛰거나 장난 금지\n※ 유아 및 아동 보호자 동반 필수\n※ 물놀이 용품 사용 시 타 이용객 방해 주의\n※ 수영장 내 음식물 반입 및 취식 금지\n※ 기상 상황 및 관리 사정에 따라 조기 종료 가능",
-        "displayOrder": 0,
+        "displayOrder": 2,
         "images": [
           {
             "id": "38913131-8ed3-4c61-9aa3-fe761b8ad0a8",
@@ -130,52 +212,11 @@
         ]
       },
       {
-        "id": "eb021df1-e845-4be0-9d59-7f2b26d76bd2",
-        "name": "스파",
-        "description": "",
-        "usageGuide": "- 이용 객실: 전 객실\n- 스파 형태: 월풀스파\n- 이용 요금: 무료\n- 이용 시간: 입실후~22:00\n- 입욕제 사용: 불가",
-        "displayOrder": 1,
-        "images": [
-          {
-            "id": "2b9ad913-bc6e-4510-a9c9-1c224fe77b62",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414748-3176unxzsn.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "08b0706f-c86e-40b2-9450-9fb00cdb273e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414749-rha16rvu9t.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "de02d82b-b245-44d0-8273-11717cae4c19",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414749-vhvf4joh65.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "4321859c-dbaf-4d42-aa36-cc30639c3377",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eb021df1-e845-4be0-9d59-7f2b26d76bd2/main/1787563414750-hksgwhrhmj.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "3adb82d1-a9fe-407b-a461-bca5223df23b",
         "name": "부대시설",
         "description": "",
         "usageGuide": "[루프탑 전망대]\n- 이용 시간: 입실 후 ~ 21:00\n- OTT(개인계정)",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "603b55b5-8163-4a7b-b77d-4b2ec823b836",
@@ -232,7 +273,7 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 엘레베이터 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "136c3256-59bd-4d19-9832-bd367e4e09ab",
@@ -320,7 +361,7 @@
           {
             "id": "01a0f59f-5c5a-7eff-a6b1-b3e721daf960",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/S4gnW9ev3MpO.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -330,7 +371,7 @@
           {
             "id": "01a0f568-6772-7d77-a100-4c218c721217",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/e4KUZPhVo1H2.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -338,7 +379,7 @@
           {
             "id": "cfa4db2d-c375-43a5-9197-6bd97419c93e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/kJetzn5h0qCg.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -346,7 +387,7 @@
           {
             "id": "01a0f568-6771-7c88-93fc-48d5e09c3b2b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/gn74y2xPH8LK.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -354,7 +395,7 @@
           {
             "id": "5133b529-6ee1-4499-a7dc-c4e742b2ca05",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/0joP7nvWaVYd.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -362,7 +403,7 @@
           {
             "id": "150ca375-8fd7-4589-81b9-b17327b0af94",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/kp2D5ymNdqnx.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -370,7 +411,7 @@
           {
             "id": "01a0f568-6772-7d5f-ba8a-48581767f2b1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/zamBHE0k9j5b.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -378,7 +419,7 @@
           {
             "id": "295b1780-d996-4466-93ce-38d8031a81bf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/07/imBGwukxKrHj.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -386,7 +427,7 @@
           {
             "id": "01a0f59f-5c5b-7352-a4b1-51a1bc4ce3c7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/4FqCabJNfQUw.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -394,7 +435,7 @@
           {
             "id": "01a0f59f-5c5b-73a6-9960-82379f66955d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/zdTPvZ5Ja27S.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2162,17 +2203,9 @@
                     "blockId": null
                   },
                   {
-                    "id": "1bd9597e-f414-4c85-ab11-276831ffe8b7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a9534672-5e80-4517-8448-40638a27ec34/index_essence/1787562974240-l6tlbhsm7j.jpg",
-                    "sortOrder": 2,
-                    "description": "파도 가까이에서 즐기는 프라이빗 물놀이",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "c4c5c9bd-c86d-48c4-ac3e-8e8cd70f6bb3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a9534672-5e80-4517-8448-40638a27ec34/index_essence/1787562974311-wd4ux7uuwm.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "하늘과 바다가 하나로 이어지는 공간",
                     "isSelected": true,
                     "blockId": null
@@ -2180,7 +2213,7 @@
                   {
                     "id": "94ed3423-ecac-4bf4-a7d7-b69e2bd591ba",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a9534672-5e80-4517-8448-40638a27ec34/index_essence/1787562974380-d0iiita6lg.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "노을이 가장 가까워지는 휴식공간",
                     "isSelected": true,
                     "blockId": null
