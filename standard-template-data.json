@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-10-09T11:08:31.710849389Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-10-15T01:33:27.725630944Z",
     "templateType": "trip_e",
     "propertyId": "c1c05c64-9c49-4b9e-aab2-8d89ddf8c910",
     "homepageId": "a9534672-5e80-4517-8448-40638a27ec34"
@@ -2731,7 +2731,8 @@
               }
             ],
             "slider": false,
-            "enabled": true,
+            "videos": [ ],
+            "enabled": false,
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
